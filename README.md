@@ -1,6 +1,6 @@
-# 📚 Library Management System (Streamlit + SQLite)
+#  Library Management System (Streamlit + SQLite)
 
-## 📌 Project Overview
+##  Project Overview
 
 This is a simple Library Management System built using **Python, Streamlit, and SQLite**.
 
@@ -15,7 +15,7 @@ The application allows users to:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Streamlit (UI)
@@ -23,21 +23,22 @@ The application allows users to:
 
 ---
 
-## 🔑 Default Login Credentials
+##  Demo Login Credentials
 
-**Admin**
+This project uses predefined users for demonstration purposes.
 
-* Username: adm
-* Password: adm
+**Admin Access**
+- Username: adm
+- Password: adm
 
-**User**
+**User Access**
+- Username: user
+- Password: user
 
-* Username: user
-* Password: user
-
+> Note: In a real-world application, authentication would be implemented using secure password hashing and user registration.
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 ### Step 1: Install dependencies
 
@@ -53,7 +54,7 @@ streamlit run app.py
 
 ---
 
-## 📊 Features
+##  Features
 
 ### 1. Authentication
 
@@ -86,9 +87,9 @@ streamlit run app.py
 * Tables:
 
   * users
-  * lib_members
+  * members
   * books
-  * issue_books
+  * issues
   * fines
 
 
