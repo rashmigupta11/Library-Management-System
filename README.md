@@ -1,4 +1,4 @@
-#  Library Management System (Streamlit + SQLite)
+#  Library Management System ( Python + Streamlit + SQLite)
 
 ##  Project Overview
 
